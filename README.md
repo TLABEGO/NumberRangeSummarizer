@@ -21,7 +21,7 @@ Implement code which has the ability to produce a comma delimited list of number
 
 ## How to run the code
 
-1. Please install Eclipse IDE
+1. Please download and install Eclipse IDE
 [Download Eclipse](https://www.eclipse.org/downloads/)
 
 2. Clone the project 

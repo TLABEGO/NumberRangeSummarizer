@@ -18,3 +18,12 @@ Implement code which has the ability to produce a comma delimited list of number
  - optimisation of your code.
  - your ability to compile a structured solution.
 - present your solution with valid unit tests.
+
+## How to run the code
+
+1. Please install Eclipse IDE
+[Download Eclipse](https://www.eclipse.org/downloads/)
+
+2. Clone the project 
+
+3. Import into Eclipse and run
